@@ -1,4 +1,4 @@
 # Frontend Card
 
-Reto de frontend mentor en el live de leonidas esteban
+Reto de Frontend Mentor en el Live de Leonidas Esteban
 
